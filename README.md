@@ -10,7 +10,7 @@ Quickplay
 - Self Explanatory
 
 Be a Pro
-- Start as a rookie, get drafted and play through 22 years in a fully simulated league with trades, contracts, injuries, call ups and more. Earn XP through play and spend money earned each game based on your currently signed contract on new sticks, gear and other things that can influence your play. Don’t like your team? Request a trade. Living it up on the Avalanche and don’t want to be traded? Request a no trade clause. The world is your oyster. 
+- Start as a rookie, get drafted and play through 22 years in a fully simulated league with trades, contracts, injuries, call ups and more. Earn XP through play and spend money earned each game based on your currently signed contract on new sticks, gear and other things that can influence your play. Don’t like your team? Request a trade. Living it up on the Avalanche and don’t want to be traded? Request a no trade clause. The world is your oyster. Oh yeah, you liked the backstage room in SvR 2007? How about your own apartment you can buy things for and upgrade? Why not right? That big contract you signed gives you a decent chunk of spendable money, you may as well spend it. 
 
 
 Ultimate Franchise (HuT Inspired Mode)
