@@ -2,7 +2,7 @@
 
 Currently working on fleshing out the be a pro style mode for forwards as well as adding a goalie career alongside an ultimate team mode that simulates the experience without being pay to win. 
 
-Progress is at about 40% of where I want it, but full simulation is working with drafts, trades, call ups, injuries, contracts, clauses, league wide news and a full 18-40 career starting in the AHL. Contracts control money earned from games, rest days let you train attributes, playing games gets you xp based on your actions and so on.  
+Progress is at about 40% of where I want it, but full simulation is working with drafts, trades, call ups, injuries, contracts, clauses, league wide news and a full 18-40 career starting in the AHL. Contracts control money earned from games, rest days let you train attributes, playing games gets you xp based on your actions and so on.  The current setup is more akin to NHL Hitz with 3v3 plus goalies, I did this to save performance on the Vita but may add a 5v5 mode later on. 
 
 Currently Playable:
 
@@ -14,7 +14,7 @@ Be a Pro
 
 
 Ultimate Franchise (HuT Inspired Mode)
-- Open packs containing over 500 card and build your dream team. Then, start your for the cup.
+- Open packs containing over 500 card and build your dream team. Then, start your run for the cup.
 
 Practice (Shooting, Aiming, Skating drills)
 
@@ -24,6 +24,7 @@ Currently Working On:
 - Better player and puck physics
 - better player models
 - Better UI design
-- An expanded player perk systems
+- An expanded player perk system
+- An expanded Be a Pro apartment system with visiting teammates and mini games
 - Audio across the board
-- Finishing up goalie career mode
+- Making goalie career mode
